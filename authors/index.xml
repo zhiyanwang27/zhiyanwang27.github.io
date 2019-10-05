@@ -5,7 +5,7 @@
     <link>https://zhiyanwang27.github.io/authors/</link>
       <atom:link href="https://zhiyanwang27.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 08 Sep 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhiyanwang27.github.io/img/icon-192.png</url>
       <title>Authors</title>
@@ -15,12 +15,84 @@
     <item>
       <title></title>
       <link>https://zhiyanwang27.github.io/authors/admin/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
       <guid>https://zhiyanwang27.github.io/authors/admin/</guid>
       <description>&lt;p&gt;I&amp;rsquo;m a Ph.D. candidate at the Lab for Cognitive and Perceptual Learning at Brown University. My research interests include the mechanisms of visual perceptual learning and how sleep influences the plasticity. I use computational modeling as well as computational imaging to understand the dynamics of plasticity in human visual system with experience. I&amp;rsquo;m also obtaining a doctoral certificate in data science.&lt;/p&gt;
 
-&lt;p&gt;In my leisure time, I play tennis regularly. During winter, I&amp;rsquo;m a snowboarder in the mountains. I speak English and Mandarin. I also speak some Japanese, Spanish and a little Russian and French.&lt;/p&gt;
+&lt;p&gt;In my leisure time, I like tennis and snowboarding. I speak English and Mandarin. I also speak some Japanese, Spanish and a little Russian and French.&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>Aaron V Berard</title>
+      <link>https://zhiyanwang27.github.io/authors/aaron-v-berard/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhiyanwang27.github.io/authors/aaron-v-berard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dongho Kim</title>
+      <link>https://zhiyanwang27.github.io/authors/dongho-kim/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhiyanwang27.github.io/authors/dongho-kim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Edward Walsh</title>
+      <link>https://zhiyanwang27.github.io/authors/edward-walsh/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhiyanwang27.github.io/authors/edward-walsh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Giorgia Pedroncelli</title>
+      <link>https://zhiyanwang27.github.io/authors/giorgia-pedroncelli/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhiyanwang27.github.io/authors/giorgia-pedroncelli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Masako Tamaki</title>
+      <link>https://zhiyanwang27.github.io/authors/masako-tamaki/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhiyanwang27.github.io/authors/masako-tamaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Takeo Watanabe</title>
+      <link>https://zhiyanwang27.github.io/authors/takeo-watanabe/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhiyanwang27.github.io/authors/takeo-watanabe/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tyler Barnes-Diana</title>
+      <link>https://zhiyanwang27.github.io/authors/tyler-barnes-diana/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhiyanwang27.github.io/authors/tyler-barnes-diana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuka Sasaki</title>
+      <link>https://zhiyanwang27.github.io/authors/yuka-sasaki/</link>
+      <pubDate>Sun, 08 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhiyanwang27.github.io/authors/yuka-sasaki/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Q. Tan</title>
+      <link>https://zhiyanwang27.github.io/authors/q.-tan/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>https://zhiyanwang27.github.io/authors/q.-tan/</guid>
+      <description></description>
     </item>
     
   </channel>
